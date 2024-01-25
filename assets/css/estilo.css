@@ -1,7 +1,6 @@
 .body{
    width: 100%;
    margin: 0px;
-  background-color: darkmagenta;
 }
 
 h1{
@@ -9,6 +8,7 @@ h1{
     width: 100%;
     align-items: center;
     justify-content: center;
+    background-color: darkmagenta;
 }
 
 h2{
@@ -16,6 +16,7 @@ h2{
     width: 100%;
     align-items: center;
     justify-content: center;
+    background-color: indianred;
 }
 #tarjeta{
     border: 30px solid;
@@ -24,10 +25,14 @@ h2{
     margin: 20px;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: center;    
 }
 img{
     width: 100%;
 }
 
+body{
+    background-image: url(https://4.bp.blogspot.com/-87RvtGNGyZQ/T6-0J1FUtYI/AAAAAAAAdfY/QGSSVWoDuvI/s1600/1024x768_argyle_0.jpg);
+    
+}
 
